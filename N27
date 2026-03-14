@@ -1,0 +1,6 @@
+sugar_level = 10
+
+if sugar_level > 5:
+    print("Too sweet!")
+else:
+    print("Just right.")
